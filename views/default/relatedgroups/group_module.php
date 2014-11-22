@@ -21,7 +21,7 @@ $options = array(
 	'relationship' => 'related',
 	'relationship_guid' => $group->guid,
 	'type' => 'group',
-	'limit' => 6,
+	'limit' => 12,
 	'full_view' => false,
 	'pagination' => false,
 );
